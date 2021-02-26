@@ -15,5 +15,5 @@ Music MVP link: https://github.com/kymy91/IH_MVPMusicRecommender/blob/master/Jup
 
 
 Link to presentation & video: 
-ppt: https://github.com/kymy91/IH_MVPMusicRecommender/blob/master/PPT.Presentation_Music_MVP.pdf
-Video: https://github.com/kymy91/IH_MVPMusicRecommender/blob/master/KYeardley_MVP_Music.mp4
+ppt: https://github.com/kymy91/IH_MVPMusicRecommender/blob/master/Presentation/PPT.Presentation_Music_MVP.pdf
+Video: https://github.com/kymy91/IH_MVPMusicRecommender/blob/master/Presentation/KYeardley_MVP_Music.mp4
